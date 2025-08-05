@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Personal Time Service
+Comment=A lightweight desktop time management and task tracking application
+Exec=personal-time-service
+Icon=personal-time-service
+Terminal=false
+Categories=Office;Productivity;Calendar;
+Keywords=time;calendar;tasks;productivity;reminder;
+StartupWMClass=personal-time-service
+MimeType=
+StartupNotify=true
